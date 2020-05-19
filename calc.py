@@ -9,3 +9,4 @@ def pow(x,y):
   res = 1 
   for _ in range(y):
     res *= x
+  return res
